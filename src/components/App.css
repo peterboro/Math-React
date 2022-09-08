@@ -50,6 +50,7 @@ button {
 .display {
   height: 75px;
   width: 249px;
+  overflow-x: scroll;
   background-color: #101116;
   border: 0;
   color: #fff;
