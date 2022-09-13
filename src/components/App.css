@@ -11,9 +11,18 @@ body {
   align-items: center;
 }
 
+.firstTitle {
+  color: black;
+  font-size: 40px;
+  padding-bottom: 20px;
+  position: absolute;
+  left: 11%;
+  top: 20%;
+}
+
 .container {
   top: 50%;
-  left: 50%;
+  left: 70%;
   position: absolute;
   transform: translate(-50%, -50%);
   margin: 0 auto;
@@ -58,4 +67,61 @@ button {
   font-weight: 500;
   font-size: 25px;
   letter-spacing: 1px;
+}
+
+.navbar {
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  padding: 16px 0;
+  color: rgb(71, 152, 167);
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.title {
+  color: black;
+  left: 0;
+  font-size: 48px;
+}
+
+.link {
+  list-style-type: none;
+  display: flex;
+  gap: 32px;
+}
+
+.links {
+  padding: 16px;
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+}
+
+.secondTitle {
+  color: black;
+  font-size: 40px;
+  padding-bottom: 20px;
+  position: absolute;
+  left: 11%;
+  top: 20%;
+}
+
+.paragraph {
+  margin: 64px 0;
+  text-align: center;
+  font-size: 28px;
+  width: 70vw;
+  color: black;
+}
+
+.quote {
+  color: black;
+  font-size: 28px;
+  width: 70vw;
+  text-align: center;
 }
