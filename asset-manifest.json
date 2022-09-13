@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Math-React/static/css/main.496b3749.css",
+    "main.js": "/Math-React/static/js/main.0289e7cf.js",
+    "index.html": "/Math-React/index.html",
+    "main.496b3749.css.map": "/Math-React/static/css/main.496b3749.css.map",
+    "main.0289e7cf.js.map": "/Math-React/static/js/main.0289e7cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.496b3749.css",
+    "static/js/main.0289e7cf.js"
+  ]
+}
