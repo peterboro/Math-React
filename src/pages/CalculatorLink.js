@@ -4,7 +4,7 @@ import CalculatorContainer from '../components/Calculator';
 
 const CalculatorLink = () => {
   <>
-    <section className='conatiner calculator-section'>
+    <section className='container'>
       <h2 className='secondTitle'> Let&apos;s do some math! </h2>
       <div className="calculator">
         <CalculatorContainer />
