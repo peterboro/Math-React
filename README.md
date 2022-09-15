@@ -12,7 +12,7 @@
 
 ## Live Demo 
 
-in progess 
+https://math-react-e5b0b5.netlify.app/
 
 
 ## Getting Started
